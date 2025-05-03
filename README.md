@@ -5,8 +5,10 @@
 <h2>🔗 Link do projeto</h2>
 <p><a href="https://furia-know-your-fan-mu.vercel.app/login">Acesse aqui</a></p>
 
-<h2>📸 Screenshot da aplicação</h2>
-<p><em>[Adicione aqui uma imagem ou gif da interface]</em></p>
+<h2>📸 Screenshots da aplicação</h2>
+![screenshot](know-your-fan-home.png)
+![screenshot](know-your-fan-profile.png)
+![screenshot](know-your-fan-dashboard.png)
 
 <h2>🎯 Objetivo</h2>
 <p>Oferecer uma plataforma personalizada e segura para fãs da FURIA se cadastrarem, interagirem e manterem seu perfil atualizado, enquanto a equipe de administração pode visualizar e gerenciar todas as informações por meio de um dashboard moderno e dinâmico.</p>
