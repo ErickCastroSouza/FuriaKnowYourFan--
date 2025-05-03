@@ -6,8 +6,11 @@
 <p><a href="https://furia-know-your-fan-mu.vercel.app/login">Acesse aqui</a></p>
 
 <h2>📸 Screenshots da aplicação</h2>
+
 ![screenshot](know-your-fan-home.png)
+
 ![screenshot](know-your-fan-profile.png)
+
 ![screenshot](know-your-fan-dashboard.png)
 
 <h2>🎯 Objetivo</h2>
