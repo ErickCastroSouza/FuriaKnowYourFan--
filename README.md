@@ -85,6 +85,7 @@ http://localhost:3000
   <li>A autenticação utiliza <strong>JWT</strong> armazenado no <code>localStorage</code> para sessões seguras sem uso de cookies.</li>
   <li>O upload de documentos é opcional, mas pode ser necessário para validação de campanhas exclusivas.</li>
   <li>A aplicação foi idealizada para estreitar a relação entre a torcida e a equipe FURIA, com uma proposta moderna, funcional e segura.</li>
+  <li>A aplicação foi feita para o Challenge #2: Know Your Fan </li>
 </ul>
 
-<p>💻 Feito com 💙 pela comunidade FURIA</p>
+<p>💻 Feito com 💙 por Erick de Castro Souza</p>
