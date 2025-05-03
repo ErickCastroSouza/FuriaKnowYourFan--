@@ -50,9 +50,6 @@
 <pre><code># Clone o repositório
 git clone https://github.com/seu-usuario/furia-know-your-fan.git
 
-# Acesse a pasta do frontend
-cd furia-know-your-fan/frontend
-
 # Instale as dependências
 npm install
 
@@ -65,7 +62,7 @@ http://localhost:5000
 
 <h3>🛠️ Backend (Express + Node)</h3>
 <pre><code># Acesse a pasta do backend
-cd furia-know-your-fan/backend
+cd furia-know-your-fan/server
 
 # Instale as dependências
 npm install
