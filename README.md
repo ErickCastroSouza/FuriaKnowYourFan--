@@ -40,7 +40,7 @@
   <li><strong>TypeScript</strong> — Tipagem estática para código mais seguro e escalável</li>
   <li><strong>Tailwind CSS</strong> — Estilização rápida e responsiva com classes utilitárias</li>
   <li><strong>PostgreSQL</strong> — Banco de dados relacional robusto</li>
-  <li><strong>Firebase Auth + JWT</strong> — Autenticação segura</li>
+  <li><strong>JWT</strong> — Autenticação segura</li>
   <li><strong>Drizzle ORM</strong> — Abstração SQL moderna e tipada</li>
 </ul>
 
